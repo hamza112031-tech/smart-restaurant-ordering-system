@@ -4,7 +4,7 @@
 # 4-save_order *
 # 5-validate_order *
 # 6-calculate_total * 
-# 7-apply_discount *
+# 7-apply_discount * 
 # 8-get_available_tables *
 
 #1-register_customer *
