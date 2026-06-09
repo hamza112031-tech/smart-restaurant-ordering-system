@@ -1,0 +1,8 @@
+from func_3_(calc_total) import calculate_total
+total=0
+for item in order:
+    price=menu[item]
+    quantity=order[item]
+    order,menu=calculate_total(order,menu)
+    print('total price ecaul:')
+    print('if you cant affrod it, request it for free ,come agian\n come agian :)')

@@ -1,0 +1,12 @@
+Koshari-35
+Grilled Chicken Meal-120
+Shish Tawook Sandwich-55
+Beef Burger-95
+Margherita Pizza-90
+Fatteh with Chicken-75
+Fried Shrimp Plate-150
+Caesar Salad-55
+Chicken Pasta Alfredo-85
+ Molokhia with Rice and Chicken-70
+ python
+ python
