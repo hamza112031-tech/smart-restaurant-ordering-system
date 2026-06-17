@@ -198,11 +198,6 @@ This project demonstrates:
 
 This project was developed for educational purposes.
 
----
-
-##  Screenshots
-
-You can add screenshots of the program here after running the application.
 
 ---
 
