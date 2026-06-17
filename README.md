@@ -73,7 +73,7 @@ Smart-Restaurant-Ordering-System/
 ###  Clone Repository
 
 ```bash
-git clone https://github.com/your-username/smart-restaurant-ordering-system.git
+git clone https://github.com/hamza112031-tech/smart-restaurant-ordering-system.git
 ```
 
 ###  Navigate to Project Folder
